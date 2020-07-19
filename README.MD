@@ -1,6 +1,8 @@
 # TEAM PROJECT THREE : FINAL WEB APPLICATION
     
 # MEMBERS
+* Matthew Keaton
+* Christian Le
 
 # FEATURES
 
