@@ -18,7 +18,7 @@
    ##### LOGIN/REGISTRATION
    [Step-by-step example](word%20doc/examples/LOGIN.MD)
    
-    Allows user(s) to create a new login account that will require an email verification 
+    Allows user(s) to create a new login account that will send an email verification 
     to complete the registration process. If the user(s) already has an account, they can 
     log on to access their page.
     
