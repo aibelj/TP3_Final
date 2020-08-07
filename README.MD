@@ -22,6 +22,8 @@
     to complete the registration process. If the user(s) already has an account, they can 
     log on to access their page.
     
+    Configured .py file to connect all pages
+    
     - Matthew Keaton
 
    ##### CALENDAR DISPLAY
@@ -35,8 +37,6 @@
     
     - Christian Le
 
-## INSTALLATION INSTRUCTIONS TO USE APPLICATION WITH DOCKER
-[CLICK HERE!](word%20doc/HOW-TO.md)
 
 ## REFERENCES
 
