@@ -1,6 +1,7 @@
 * Shows the homepage with the login screen
 
 ---
+![Login](images/Login Img/Login.png)
 
 **IF YOU HAVE AN ACCOUNT**...
 * Enter your login information
@@ -10,8 +11,14 @@
 
         USERNAME/EMAIL is MisterTestHere123@gmail.com
         PASSWORD is NJITpass
-        
+**Successful Login**
+* Will redirect you instantly to the calandar
+
+**Failed Login**
+
+![Login Failed](images/Login Img/Failed Login.png)
 ---
+![Signup](images/Login Img/Signup.png)
 
 **AFTER CLICKING SIGNUP**...
 
