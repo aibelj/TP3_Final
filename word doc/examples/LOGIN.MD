@@ -1,7 +1,7 @@
 * Shows the homepage with the login screen
 
 ---
-![Login](images/Login Img/Login.png)
+![Login](/images/Login%20Img/Login.png)
 
 **IF YOU HAVE AN ACCOUNT**...
 * Enter your login information
@@ -16,11 +16,11 @@
 
 **Failed Login**
 
-![Login Failed](images/Login Img/Failed Login.png)
+![Login Failed](/images/Login%20Img/Failed%20Login.png)
 ---
-![Signup](images/Login Img/Signup.png)
 
 **AFTER CLICKING SIGNUP**...
+![Signup](/images/Login%20Img/Signup.png)
 
 * Enter the email address (given above)
 * Enter any password you like
